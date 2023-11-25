@@ -1,39 +1,36 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Friday Film Club
 
-Welcome,
+Friday Film Club is for the film enthusiasts who love discussing the art in movies. It is a space for those who share the same interest of the cinema, an open space talk about how a film made the members feel and how they understood it; discussing the directing, the plot, story telling, cinematography, music, the acting, the script writing, etc.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The website aims to create a community where ideas can be shared. Friday Film Club will be useful to find people who also share a passion for cinema understand a film from a different perspective and also learn from others.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## Credit
 
-## Codeanywhere Reminders
+### Content
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Code Institute Template -
+I have used the template provided by Code Institute to start the html for this website
+<https://github.com/Code-Institute-Org/ci-full-template>
 
-`python3 -m http.server`
+Favicon -
+I have used code in this guide to create a favicon for my website.
+<https://www.w3schools.com/html/html_favicon.asp>
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Readme template -
+I have used the readme template to help to start on the readme file for the film club website.
+<https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md?plain=1>
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Footer -
+I had help from the following sites to create the footer
+<https://www.w3schools.com/howto/howto_css_social_media_buttons.asp>
 
-`http_server`
+<https://html.com/attributes/a-target/#:~:text=browser%20specifies%20otherwise.-> a%20target%3D%E2%80%9D_blank%E2%80%9D%20Open%20in%20New%20Browser%20Tab%20(,older%20browsers)%20a%20new%20window.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Navigaion Bar -
+<https://www.w3schools.com/howto/howto_js_topnav.asp>
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Media
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Favicon-
+I downloaded the free svg image for the film icon from Font Awesome to use as my favicon
+<https://fontawesome.com/icons/film?f=classic&s=solid>
